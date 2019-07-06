@@ -1,0 +1,45 @@
+body{
+	height: 900px;
+	width: 100%;
+	
+	background-color: lightgrey;
+	margin: 0 auto;
+	padding: 15px;
+	
+}
+.shape{
+	display: flex;
+	flex-flow: row wrap;
+}
+}
+p,img,button{
+	
+	align-items: center;
+
+}
+.item{
+	
+	background-image:url(1.jpg); 
+	width: 250px;
+	height: 400px;
+
+	
+}
+.item1{
+	background-image:url(1.jpg); 
+	width: 500px;
+	height:400px;
+
+}
+div{
+	
+	margin: 10px;
+	padding: 5px;
+
+
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
